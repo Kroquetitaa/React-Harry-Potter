@@ -1,0 +1,18 @@
+.footer--list{
+    width: 100%;
+    height: 10vh;
+    bottom: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: bolder;
+    list-style: none;
+    color: #dba90e;
+    background-color: black;
+}
+
+.footer--list li {
+    font-family: fantasy;
+    letter-spacing: 0.25rem;
+}

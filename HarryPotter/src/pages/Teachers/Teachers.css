@@ -1,0 +1,25 @@
+.teacher{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background-color: grey;
+}
+
+.teacher h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: #dba90e;
+}
+
+
+.teacher .gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+    padding-bottom: 5rem;
+    gap: 1rem;
+}

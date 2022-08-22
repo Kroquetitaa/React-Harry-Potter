@@ -1,0 +1,25 @@
+.houses{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.houses h3{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: #dba90e;
+}
+
+
+.houses .gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+    padding-bottom: 5rem;
+    gap: 1rem;
+}
